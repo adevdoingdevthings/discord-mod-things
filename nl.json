@@ -54,7 +54,8 @@
     "alpha": 1
   },
   "spec": 2,
-   "plus":{
-       "version":"0",
-       "iconpack":"rosiecord-plumpy"
+    "plus":{
+        "version":"0",
+        "iconpack":"rosiecord-plumpy"
+    }
 }
