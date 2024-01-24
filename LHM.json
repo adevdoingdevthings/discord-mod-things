@@ -35,11 +35,11 @@
   },
   "rawColors": {
     "BRAND_260": "#FAE6FA",
-    "BRAND_360": "000001",
+    "BRAND_360": "000000",
     "BRAND_560": "#4719C4",
     "GREEN_360": "#6243FF",
     "PRIMARY_230": "#FFFFFF",
-    "PRIMARY_600": "000000",
+    "PRIMARY_600": "000001",
     "PRIMARY_630": "#000000",
     "PRIMARY_660": "#1F1F1F",
     "PRIMARY_700": "#181818",
