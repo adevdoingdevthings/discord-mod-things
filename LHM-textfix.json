@@ -1,6 +1,6 @@
 {
   "name": "LandenHM's Purple",
-  "version": "1.1",
+  "version": "1.0",
   "description": "A fork of S9Teen's night life, with a brighter purple and black over grey. Tabsv2 untested, Themes+ used.",
   "authors": [
     {
@@ -12,7 +12,7 @@
     "HEADER_PRIMARY": ["#756CD9"],
     "HEADER_SECONDARY": ["#6F66CC"],
     "INTERACTIVE_ACTIVE": ["#8C6EFF"],
-    "INTERACTIVE_NORMAL": ["#FFFFFF"],
+    "INTERACTIVE_NORMAL": ["#7059B3"],
     "INTERACTIVE_MUTED": ["#4B458A"],
     "BACKGROUND_ACCENT": ["#262626"],
     "BACKGROUND_MENTIONED": ["#370F8060"],
@@ -35,11 +35,11 @@
   },
   "rawColors": {
     "BRAND_260": "#FAE6FA",
-    "BRAND_360": "#5610FF",
+    "BRAND_360": "#746cd9",
     "BRAND_560": "#4719C4",
     "GREEN_360": "#6243FF",
-    "PRIMARY_230": "#000000",
-    "PRIMARY_600": "#5610FF",
+    "PRIMARY_230": "#746cd9",
+    "PRIMARY_600": "#000000",
     "PRIMARY_630": "#000000",
     "PRIMARY_660": "#1F1F1F",
     "PRIMARY_700": "#181818",
