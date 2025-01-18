@@ -15,7 +15,7 @@
         ]
     },
     "rawColors": {
-        "RAW_Color_1": "#00ff00",
+        "ROLE_DEFAULT": "#ff0000",
         "RAW_Color_2": "#00ff00"
     },
     "spec": 2
