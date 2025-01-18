@@ -1,0 +1,22 @@
+{
+    "name": "LHM Theme (Again)",
+    "description": "Amoled purple theme being made from scratch.",
+    "authors": [
+        {
+            "name": "LandenHM"
+        }
+    ],
+    "semanticColors": {
+        "ANDROID_RIPPLE": [
+            "#884dff"
+        ],
+        "Semantic_color_2": [
+            "#00ff00"
+        ]
+    },
+    "rawColors": {
+        "RAW_Color_1": "#00ff00",
+        "RAW_Color_2": "#00ff00"
+    },
+    "spec": 2
+}
