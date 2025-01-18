@@ -1,0 +1,69 @@
+{
+  "name": "LandenHM's Purple",
+  "version": "1.0",
+  "description": "A fork of S9Teen's night life, with a brighter purple and black over grey. Tabsv2 untested, Themes+ used.",
+  "authors": [
+    {
+      "name": "LandenHM",
+      "id": "963639618765484043"
+    }
+  ],
+  "semanticColors": {
+    "HEADER_PRIMARY": ["#756CD9"],
+    "HEADER_SECONDARY": ["#6F66CC"],
+    "INTERACTIVE_ACTIVE": ["#8C6EFF"],
+    "INTERACTIVE_NORMAL": ["#FFFFFF"],
+    "INTERACTIVE_MUTED": ["#4B458A"],
+    "BACKGROUND_ACCENT": ["#08080A"],
+    "BACKGROUND_MENTIONED": ["#370F8060"],
+    "BACKGROUND_MESSAGE_HOVER": ["#1B0840"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#000000"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#000000"],
+    "BACKGROUND_PRIMARY": ["#000000"],
+    "BACKGROUND_SECONDARY": ["#000000"],
+    "BACKGROUND_SECONDARY_ALT": ["#000000"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#16063350"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#370F8050"],
+    "BACKGROUND_MODIFIER_HOVER": ["#0D0D0D"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#380E8060"],
+    "BACKGROUND_TERTIARY": ["#000000"],
+    "CHANNELS_DEFAULT": ["#635CB8"],
+    "CHANNEL_ICON": ["#756CD9"],
+    "CHAT_BACKGROUND": ["#000000"],
+    "TEXT_DANGER": ["#A12829"],
+    "TEXT_NORMAL": ["#DFE2E6"]
+  },
+  "rawColors": {
+    "BRAND_260": "#FAE6FA",
+    "BRAND_360": "000000",
+    "BRAND_560": "#4719C4",
+    "GREEN_360": "#6243FF",
+    "PRIMARY_230": "#FFFFFF",
+    "PRIMARY_560": "08080A",
+    "PRIMARY_600": "000000",
+    "PRIMARY_630": "#000000",
+    "PRIMARY_660": "#08080A",
+    "PRIMARY_700": "#08080A",
+    "PRIMARY_800": "#000000",
+    "RED_400": "#C70C4D",
+    "WHITE_500": "#ffffff",
+    "YELLOW_300": "#411299"
+
+    "PLUM_17": "#000000",
+    "PLUM_18": "#08080A",
+    "PLUM_19": "#08080A",
+    "PLUM_20": "#000000",
+    "PLUM_23": "#000000",
+    "PLUM_24": "#08080A"
+  },
+  "background": {
+    "blur": 0.6,
+    "url": "https://github.com/adevdoingdevthings/test/blob/main/IMG_20230901_2.png?raw=true",
+    "alpha": 1
+  },
+  "spec": 2,
+    "plus":{
+        "version":"0",
+        "iconpack":"rosiecord-plumpy"
+    }
+}
