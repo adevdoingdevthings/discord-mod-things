@@ -5,7 +5,9 @@ Since this is a **very** unprofessional repository, I don't rebase, do any testi
 ## 🎨 Themes
 ### Revenge
 * [LHM Theme (Again)](https://github.com/adevdoingdevthings/revenge-things/blob/main/LHM.json)
-[Theme Link](https://raw.githubusercontent.com/adevdoingdevthings/revenge-things/refs/heads/main/LHM.json) | Abandoned theme, don't use.
+[Theme Link](https://raw.githubusercontent.com/adevdoingdevthings/revenge-things/refs/heads/main/LHM.json) | No screenshot avaliable
+> [!WARNING]
+> I have stopped all development on this theme due to not using it myself, along with this, there are only 2 colours changed iirc.
 ### Aliucord
 * Coming soon... _pretty soon_.
 
