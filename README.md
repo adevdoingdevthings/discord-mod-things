@@ -6,8 +6,10 @@ Since this is a **very** unprofessional repository, I don't rebase, do any testi
 ### Revenge
 > [!WARNING]
 > I have stopped all development on this theme due to not using it myself, along with this, there are only 4 colours changed. None are very noticable.
+
 [LHM Theme (Again)](https://github.com/adevdoingdevthings/revenge-things/blob/main/LHM.json)
 * [Theme Link](https://raw.githubusercontent.com/adevdoingdevthings/revenge-things/refs/heads/main/LHM.json) | No screenshot avaliable
+
 [Quicksand + Whitney](https://github.com/adevdoingdevthings/revenge-things/blob/main/font.json)
 * [Font Link](https://raw.githubusercontent.com/adevdoingdevthings/revenge-things/refs/heads/main/font.json)
 ### Aliucord
@@ -23,7 +25,7 @@ Since this is a **very** unprofessional repository, I don't rebase, do any testi
 * [Night Life](https://github.com/S9Teen/Discord-Theme-Night-Life)
 ### [Aliucord Background GIF](https://github.com/adevdoingdevthings/revenge-things/blob/main/aliucord_bg.gif)
 * [You Trippin'](https://raw.githubusercontent.com/rickdtc/Aliurcord-themes/refs/heads/main/Transparent.json)
-### Quicksand + Whitney
+### [Quicksand + Whitney](https://github.com/adevdoingdevthings/revenge-things/blob/main/font.json) font
 * [Bunny Google Fonts](https://bunny-google-fonts.vercel.app/)
 * [Google Fonts](https://fonts.google.com/specimen/Quicksand)
 * [Whitney Font](https://www.typography.com/fonts/whitney/overview)
