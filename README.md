@@ -9,7 +9,7 @@ Since this is a **very** unprofessional repository, I don't rebase, do any testi
 
 [LHM Theme (Again)](https://github.com/adevdoingdevthings/revenge-things/blob/main/LHM.json)
 * [Theme Link](https://raw.githubusercontent.com/adevdoingdevthings/revenge-things/refs/heads/main/LHM.json) | No screenshot avaliable
-
+------
 [Quicksand + Whitney](https://github.com/adevdoingdevthings/revenge-things/blob/main/font.json)
 * [Font Link](https://raw.githubusercontent.com/adevdoingdevthings/revenge-things/refs/heads/main/font.json)
 ### Aliucord
