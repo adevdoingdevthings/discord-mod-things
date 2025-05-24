@@ -28,3 +28,6 @@ Since this is a **very** unprofessional repository, I don't rebase, do any testi
 * [Google Fonts](https://fonts.google.com/specimen/Quicksand)
 * [Whitney Font](https://www.typography.com/fonts/whitney/overview)
 * [Whitney Bunny (now Revenge ig) Font](https://github.com/Rico040/meine-themen/blob/master/old-fonts.json)
+### [Aliucord Home Icon](https://github.com/adevdoingdevthings/revenge-things/blob/main/Messages.png)
+* [Vendetta Material Icons](https://github.com/Panniku/vd-iconpacks/blob/master/Packs/MaterialDesign3/images/native/main_tabs/Messages.png)
+* [Google Material Icons](https://fonts.google.com/icons)
