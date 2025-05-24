@@ -7,11 +7,9 @@ Since this is a **very** unprofessional repository, I don't rebase, do any testi
 > [!WARNING]
 > I have stopped all development on this theme due to not using it myself, along with this, there are only 4 colours changed. None are very noticable.
 
-[LHM Theme (Again)](https://github.com/adevdoingdevthings/revenge-things/blob/main/LHM.json)
-* [Theme Link](https://raw.githubusercontent.com/adevdoingdevthings/revenge-things/refs/heads/main/LHM.json) | No screenshot avaliable
+* [LHM Theme (Again)](https://github.com/adevdoingdevthings/revenge-things/blob/main/LHM.json) - [Theme Link](https://raw.githubusercontent.com/adevdoingdevthings/revenge-things/refs/heads/main/LHM.json) - No screenshot avaliable
 ------
-[Quicksand + Whitney](https://github.com/adevdoingdevthings/revenge-things/blob/main/font.json)
-* [Font Link](https://raw.githubusercontent.com/adevdoingdevthings/revenge-things/refs/heads/main/font.json)
+* [Quicksand + Whitney](https://github.com/adevdoingdevthings/revenge-things/blob/main/font.json) - [Font Link](https://raw.githubusercontent.com/adevdoingdevthings/revenge-things/refs/heads/main/font.json)
 ### Aliucord
 > [!NOTE]
 > Coming soon... _pretty soon_.
