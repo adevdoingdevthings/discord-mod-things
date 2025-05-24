@@ -5,9 +5,10 @@ Since this is a **very** unprofessional repository, I don't rebase, do any testi
 ## 🎨 Themes & Fonts
 ### Revenge
 > [!WARNING]
-> I have stopped all development on this theme due to not using it myself, along with this, there are only 4 colours changed. None are very noticable.
+> I stopped working on LHM Theme (only 4 colours changed) as it would have just become [Darkened Amethyst](https://raw.githubusercontent.com/Purple-EyeZ/Darkened-Collection/refs/heads/main/minified_themes/Darkened_Amethyst_min.json) but worse, and I've been using [YouGray](https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/refs/heads/master/Themes/YouGray/YouGray.json) since it matches my Material You colours anyways.
 
 * [LHM Theme (Again)](https://github.com/adevdoingdevthings/revenge-things/blob/main/LHM.json) - [Theme Link](https://raw.githubusercontent.com/adevdoingdevthings/revenge-things/refs/heads/main/LHM.json) - No screenshot avaliable
+
 ------
 * [Quicksand + Whitney](https://github.com/adevdoingdevthings/revenge-things/blob/main/font.json) - [Font Link](https://raw.githubusercontent.com/adevdoingdevthings/revenge-things/refs/heads/main/font.json)
 ### Aliucord
