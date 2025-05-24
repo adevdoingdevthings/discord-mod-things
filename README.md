@@ -2,7 +2,6 @@
 This is a repository for me to test things for [Revenge](https://github.com/revenge-mod) and [Aliucord](https://github.com/Aliucord).
 Since this is a **very** unprofessional repository, I don't rebase, do any testing, and just simply push to main. There will be a lot of commit noise.
 
-------
 ## 🎨 Themes
 ### Revenge
 * [LHM Theme (Again)](https://github.com/adevdoingdevthings/revenge-things/blob/main/LHM.json)
