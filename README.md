@@ -1,5 +1,5 @@
 # 💡 My Discord Mobile Things
-This is a repository for me to test things for [Revenge](https://github.com/revenge-mod), [Aliucord](https://github.com/Aliucord) and [BoundTweak](https://github.com/CloudySnowX/BoundTweak). The home to all of my plugins and themes for mobile, but may or may not add [Equicord](https://github.com/Equicord/Equicord) user plugins and [Vencord](https://github.com/Vendicated/Vencord) themes in the future.
+This is a repository for me to test things for [Revenge](https://github.com/revenge-mod), [Aliucord](https://github.com/Aliucord) and [BoundTweak](https://github.com/CloudySnowX/BoundTweak). The home to all of my plugins and themes for mobile, but I may or may not add [Vencord](https://github.com/Vendicated/Vencord) user plugins and themes in mind for [Equicord](https://github.com/Equicord/Equicord) in the future.
 
 
 Since this is a **very** unprofessional repository, I don't rebase, do any testing, and just simply push to main. There will be a lot of commit noise.
