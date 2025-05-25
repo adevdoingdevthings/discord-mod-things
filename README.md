@@ -1,6 +1,8 @@
 # 💡 My Revenge/Aliucord Things
 This is a repository for me to test things for [Revenge](https://github.com/revenge-mod) and [Aliucord](https://github.com/Aliucord).
+
 Since this is a **very** unprofessional repository, I don't rebase, do any testing, and just simply push to main. There will be a lot of commit noise.
+
 My stuff is only tested on two devices, my Pixel 8 running [GrapheneOS](https://grapheneos.org/), and my iPhone 8+ with [palera1n](https://palera.in/). Issues may happen with other devices.
 
 ## 🎨 Themes & Fonts
