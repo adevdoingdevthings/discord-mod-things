@@ -1,21 +1,25 @@
 # 💡 My Revenge/Aliucord Things
-This is a repository for me to test things for [Revenge](https://github.com/revenge-mod) and [Aliucord](https://github.com/Aliucord).
+This is a repository for me to test things for [Revenge](https://github.com/revenge-mod), [Aliucord](https://github.com/Aliucord) and [BoundTweak](https://github.com/CloudySnowX/BoundTweak). The home to all of my plugins and themes for mobile, but may or may not add [Equicord](https://github.com/Equicord/Equicord) user plugins and [Vencord](https://github.com/Vendicated/Vencord) themes in the future.
 
 
 Since this is a **very** unprofessional repository, I don't rebase, do any testing, and just simply push to main. There will be a lot of commit noise.
 
 
-My stuff is only tested on two devices, my Pixel 8 running [GrapheneOS](https://grapheneos.org/), and my iPhone 8+ with [palera1n](https://palera.in/). Issues may happen with other devices, and I _probably_ won't want to fix it.
+My stuff is only tested on two devices, my Pixel 8 running [GrapheneOS](https://grapheneos.org/), and my iPhone 8+ with [palera1n](https://palera.in/). Issues may happen with other devices, and I won't fix it if it's too annoying.
 
 ## 🎨 Themes & Fonts
 ### Revenge
 > [!WARNING]
-> I stopped working on LHM Theme (only 4 colours changed) as it would have just become [Darkened Amethyst](https://raw.githubusercontent.com/Purple-EyeZ/Darkened-Collection/refs/heads/main/minified_themes/Darkened_Amethyst_min.json) but worse, and I've been using [YouGray](https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/refs/heads/master/Themes/YouGray/YouGray.json) since it matches my Material You colours anyways.
+> I stopped working on LHM Theme as it would have just become [Darkened Amethyst](https://raw.githubusercontent.com/Purple-EyeZ/Darkened-Collection/refs/heads/main/minified_themes/Darkened_Amethyst_min.json) but worse, and I've been using [YouGray](https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/refs/heads/master/Themes/YouGray/YouGray.json) since it matches my Material You colours, so I have no reason to work on it.
 
-* [LHM Theme (Again)](https://github.com/adevdoingdevthings/revenge-things/blob/main/LHM.json) - [Theme Link](https://raw.githubusercontent.com/adevdoingdevthings/revenge-things/refs/heads/main/LHM.json) - No screenshot avaliable
+* *[LHM Theme (Again)](https://github.com/adevdoingdevthings/revenge-things/blob/main/LHM.json) - [Theme Link](https://raw.githubusercontent.com/adevdoingdevthings/revenge-things/refs/heads/main/LHM.json) - No screenshot avaliable*
+
+A theme with only 4 colours changed, was meant to become a rewrite of the old LHM theme that broke on TabsV2, along with upstream. The original wasn't too different anyways, just slightly more contrast.
 
 ------
-* [Quicksand + Whitney](https://github.com/adevdoingdevthings/revenge-things/blob/main/font.json) - [Font Link](https://raw.githubusercontent.com/adevdoingdevthings/revenge-things/refs/heads/main/font.json)
+* *[Quicksand + Whitney](https://github.com/adevdoingdevthings/revenge-things/blob/main/font.json) - [Font Link](https://raw.githubusercontent.com/adevdoingdevthings/revenge-things/refs/heads/main/font.json)*
+
+A font with Quicksand as the base font, and Whitney as the italics since Quicksand doesn't support italic fonts. I also just like Whitney.
 ### Aliucord
 > [!NOTE]
 > Coming soon... _pretty soon_.
