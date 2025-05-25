@@ -10,16 +10,21 @@ My stuff is only tested on two devices, my Pixel 8 running [GrapheneOS](https://
 ## 🎨 Themes & Fonts
 ### Revenge
 > [!WARNING]
-> I stopped working on LHM Theme as it would have just become [Darkened Amethyst](https://raw.githubusercontent.com/Purple-EyeZ/Darkened-Collection/refs/heads/main/minified_themes/Darkened_Amethyst_min.json) but worse, and I've been using [YouGray](https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/refs/heads/master/Themes/YouGray/YouGray.json) since it matches my Material You colours, so I have no reason to work on it.
-
+> I stopped working on [LHM Theme](#lhm-theme-again---theme-link---no-preview) as it would have just become [Darkened Amethyst](https://raw.githubusercontent.com/Purple-EyeZ/Darkened-Collection/refs/heads/main/minified_themes/Darkened_Amethyst_min.json) but worse, and I've been using [YouGray](https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/refs/heads/master/Themes/YouGray/YouGray.json) since it matches my Material You colours, so I have no reason to work on it.
 ##### *[LHM Theme (Again)](https://github.com/adevdoingdevthings/revenge-things/blob/main/LHM.json) - [Theme Link](https://raw.githubusercontent.com/adevdoingdevthings/revenge-things/refs/heads/main/LHM.json) - No Preview*
-
-A theme with only 4 colours changed, was meant to become a rewrite of the old LHM theme that broke on TabsV2, along with upstream. The original wasn't too different anyways, just slightly more contrast.
+<details>
+  <summary>Description</summary>
+  <p>A theme with only 4 colours changed. This was meant to become a rewrite of the old LHM theme that broke on TabsV2, along with upstream. The original wasn't too different anyways, just slightly less contrast.</p>
+</details>
 
 ------
 ##### *[Quicksand + Whitney](https://github.com/adevdoingdevthings/revenge-things/blob/main/font.json) - [Font Link](https://raw.githubusercontent.com/adevdoingdevthings/revenge-things/refs/heads/main/font.json) - [Preview](https://github.com/adevdoingdevthings/discord-mod-things/blob/main/README-files/quicksandwhitney.png)*
 
-A font with Quicksand as the base font, and Whitney as the italics since Quicksand doesn't support italic fonts. I also just like Whitney.
+<details>
+  <summary>Description</summary>
+  <p>A font with Quicksand as the base font, and Whitney as the italics since Quicksand doesn't support italic fonts. I also just like Whitney.</p>
+</details>
+
 ### Aliucord
 > [!NOTE]
 > Coming soon... _pretty soon_.
