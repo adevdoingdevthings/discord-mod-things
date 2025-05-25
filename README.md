@@ -1,6 +1,7 @@
 # 💡 My Revenge/Aliucord Things
 This is a repository for me to test things for [Revenge](https://github.com/revenge-mod) and [Aliucord](https://github.com/Aliucord).
 Since this is a **very** unprofessional repository, I don't rebase, do any testing, and just simply push to main. There will be a lot of commit noise.
+My stuff is only tested on two devices, my Pixel 8 running [GrapheneOS](https://grapheneos.org/), and my iPhone 8+ with [palera1n](https://palera.in/). Issues may happen with other devices.
 
 ## 🎨 Themes & Fonts
 ### Revenge
@@ -16,8 +17,15 @@ Since this is a **very** unprofessional repository, I don't rebase, do any testi
 > Coming soon... _pretty soon_.
 
 ## 🔌 Plugins
+### Revenge
 > [!IMPORTANT]
-> Waiting for [Revenge Next](https://github.com/revenge-mod/revenge-bundle-next) to have a stable release on Android, and either for [BoundTweak](https://github.com/CloudySnowX/BoundTweak) to work well enough with Revenge Next, or for [Unbound](https://github.com/unbound-app) to be our only option on iOS.
+> Waiting for [Revenge Next](https://github.com/revenge-mod/revenge-bundle-next) to have a stable release on Android, and either for [BoundTweak](https://github.com/CloudySnowX/BoundTweak) to work well enough with Revenge Next, or drop support for it.
+### Unbound
+> [!IMPORTANT]
+> I will only learn how to write plugins for [Unbound](https://github.com/unbound-app) if [BoundTweak](https://github.com/CloudySnowX/BoundTweak) goes EOL, and there isn't any other iOS alternatives.
+### Aliucord
+> [!NOTE]
+> I am not sure if I will write plugins for [Aliucord](https://github.com/Aliucord) since it uses either Java or Kotlin, both I found horrible to learn for me and never ended up doing it.
 
 ## 📃 Credit to the people I ~~borrowed~~ entirely stole from
 ### Everything in the ["old"](https://github.com/adevdoingdevthings/revenge-things/tree/main/old) folder other than [my screenshot](https://github.com/adevdoingdevthings/revenge-things/blob/main/old/Screenshot_20240302-093609.png)
