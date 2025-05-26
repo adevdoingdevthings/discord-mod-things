@@ -40,6 +40,6 @@ What should the theme look like or do?
 
 What does the theme actually look like or do?  Include screenshots.
 
-**8. Additional Context/Notes (Optional/):** 
+**8. Additional Context/Notes (Optional):** 
 
 Add any other relevant information.
