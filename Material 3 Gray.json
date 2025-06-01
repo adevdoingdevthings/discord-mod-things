@@ -1,0 +1,28 @@
+{
+    "manifest": {
+        "author": "emberlynsgrave",
+        "name": "Material 3 Gray",
+        "version": "1.0.0"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "background": -15461356,
+        "background_secondary": -15066598,
+        "statusbar": -15461356,
+        "mention_highlight": -14803426,
+        "accent": -10066330
+    },
+    "colors": {
+        "primary_100": -1579033,
+        "primary_200": -1579033,
+        "primary_300": -1579033,
+        "primary_dark_330": -10066330,
+        "primary_360": -1579033,
+        "primary_400": -5131855,
+        "primary_dark_460": -5131855,
+        "primary_500": -5131855
+    },
+    "drawable_tints": {},
+    "raws": {}
+}
