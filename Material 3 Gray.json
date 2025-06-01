@@ -2,7 +2,8 @@
     "manifest": {
         "author": "emberlynsgrave",
         "name": "Material 3 Gray",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/adevdoingdevthings\/discord-mod-things\/refs\/heads\/main\/Material%203%20Gray.json"
     },
     "background": {},
     "fonts": {},
