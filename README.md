@@ -26,8 +26,12 @@ My stuff is only tested on two devices, my Pixel 8 running [GrapheneOS](https://
 </details>
 
 ### Aliucord
-> [!NOTE]
-> Coming soon... _pretty soon_.
+##### *[Material 3 Gray](https://raw.githubusercontent.com/adevdoingdevthings/discord-mod-things/refs/heads/main/Material%203%20Gray.json) - No Preview*
+
+<details>
+  <summary>Description</summary>
+  <p>An attempt to get my Material You theme over to Aliucord, theme colours taken from my own OS and YouGray. Pull requests are very welcome here since I barely did any testing.</p>
+</details>
 
 ## 🔌 Plugins
 ### Revenge
@@ -53,3 +57,5 @@ My stuff is only tested on two devices, my Pixel 8 running [GrapheneOS](https://
 ### [Aliucord Home Icon](https://github.com/adevdoingdevthings/revenge-things/blob/main/Messages.png)
 * [Vendetta Material Icons](https://github.com/Panniku/vd-iconpacks/blob/master/Packs/MaterialDesign3/images/native/main_tabs/Messages.png)
 * [Google Material Icons](https://fonts.google.com/icons)
+### [Material 3 Gray](https://github.com/adevdoingdevthings/discord-mod-things/blob/main/Material%203%20Gray.json)
+* [YouGray](https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/refs/heads/master/Themes/YouGray/YouGray.json)
