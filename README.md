@@ -1,6 +1,15 @@
-# 💡 My Discord Mobile Things
-This is a repository for me to test things for [Revenge](https://github.com/revenge-mod), [Aliucord](https://github.com/Aliucord) and [BoundTweak](https://github.com/CloudySnowX/BoundTweak). The home to all of my plugins and themes for mobile, but I may or may not add [Vencord](https://github.com/Vendicated/Vencord) user plugins and themes in mind for [Equicord](https://github.com/Equicord/Equicord) in the future.
+# 💡 My Discord Things
+This repository is the home to all of my plugins and themes for these mods:
+- [Revenge](https://github.com/revenge-mod)
+  - [BoundTweak](https://github.com/CloudySnowX/BoundTweak)
+  - [Kettu](https://github.com/C0C0B01/Kettu)
+- [Aliucord](https://github.com/Aliucord)
 
+In the future I may or may not add stuff for:
+- [Lumi](https://github.com/C0C0B01/Lumi)
+- [Unbound](https://github.com/unbound-app/client)
+- [Vencord](https://github.com/Vendicated/Vencord)
+  - [Equicord](https://github.com/Equicord/Equicord)
 
 Since this is a **very** unprofessional repository, I don't rebase, do any testing, and just simply push to main. There will be a lot of commit noise.
 
@@ -8,13 +17,13 @@ Since this is a **very** unprofessional repository, I don't rebase, do any testi
 My stuff is only tested on two devices, my Pixel 8 running [GrapheneOS](https://grapheneos.org/), and my iPhone 8+ with [palera1n](https://palera.in/). Issues may happen with other devices, and I won't fix it if it's too annoying.
 
 ## 🎨 Themes & Fonts
-### Revenge
+### Revenge, BoundTweak, Kettu
 > [!WARNING]
-> I stopped working on [LHM Theme](#lhm-theme-again---theme-link---no-preview) as it would have just become [Darkened Amethyst](https://raw.githubusercontent.com/Purple-EyeZ/Darkened-Collection/refs/heads/main/minified_themes/Darkened_Amethyst_min.json) but worse, and I've been using [YouGray](https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/refs/heads/master/Themes/YouGray/YouGray.json) since it matches my Material You colours, so I have no reason to work on it.
+> I stopped working on [LHM Theme](#lhm-theme-again---theme-link---no-preview) as it would have just become [Darkened Amethyst](https://raw.githubusercontent.com/Purple-EyeZ/Darkened-Collection/refs/heads/main/minified_themes/Darkened_Amethyst_min.json) but worse, and I've been using [YouGray](https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/refs/heads/master/Themes/YouGray/YouGray.json) since it matches my Material You colours. I have no reason to work on a theme I won't even use.
 ##### *[LHM Theme (Again)](https://github.com/adevdoingdevthings/revenge-things/blob/main/LHM.json) - [Theme Link](https://raw.githubusercontent.com/adevdoingdevthings/revenge-things/refs/heads/main/LHM.json) - No Preview*
 <details>
   <summary>Description</summary>
-  <p>A theme with only 4 colours changed. This was meant to become a rewrite of the old LHM theme that broke on TabsV2, along with upstream. The original wasn't too different anyways, just slightly less contrast.</p>
+  <p>A theme with only 4 colours changed. This was meant to become a rewrite of the old LHM theme that broke on TabsV2, along with upstream. Upstream wasn't too different anyways, just slightly less contrast.</p>
 </details>
 
 ------
@@ -30,13 +39,20 @@ My stuff is only tested on two devices, my Pixel 8 running [GrapheneOS](https://
 
 <details>
   <summary>Description</summary>
-  <p>An attempt to get my Material You theme over to Aliucord, theme colours taken from my own OS and YouGray. Pull requests are very welcome here since I barely did any testing.</p>
+  <p>An attempt to get my Material You colours over to Aliucord, colour codes taken from my own OS and YouGray. Pull requests are very welcome here since I barely did any testing.</p>
 </details>
 
+### Unbound
+> [!NOTE]
+> Coming [soon™️](http://soon.urbanup.com/10937957)
+
 ## 🔌 Plugins
-### Revenge
+### Revenge (Next)
 > [!IMPORTANT]
 > Waiting for [Revenge Next](https://github.com/revenge-mod/revenge-bundle-next) to have a stable release on Android, and either for [BoundTweak](https://github.com/CloudySnowX/BoundTweak) to work well enough with Revenge Next, or drop support for it.
+### Kettu, (Current) Revenge
+> [!NOTE]
+> Waiting to see if [Kettu](https://github.com/C0C0B01/Kettu) will go EOL soon-ish or not before writing plugins for [Vendetta](https://github.com/vendetta-mod/Vendetta)-based mods. Honestly, I don't have much hope considering [my lazy commits](https://github.com/adevdoingdevthings/discord-mod-things/commits/main/) are named better than [the owner's commits](https://github.com/C0C0B01/Kettu/commits/main/?author=C0C0B01). But, let's just wait and see.
 ### Unbound
 > [!IMPORTANT]
 > I will only learn how to write plugins for [Unbound](https://github.com/unbound-app) if [BoundTweak](https://github.com/CloudySnowX/BoundTweak) goes EOL, and there isn't any other iOS alternatives.
