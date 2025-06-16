@@ -5,14 +5,13 @@ This repository is the home to all of my plugins and themes for these mods:
   - [Kettu](https://github.com/C0C0B01/Kettu)
 - [Aliucord](https://github.com/Aliucord)
 
-In the future I may or may not add stuff for:
+Though, in the future I might add stuff for:
 - [Lumi](https://github.com/C0C0B01/Lumi)
 - [Unbound](https://github.com/unbound-app/client)
 - [Vencord](https://github.com/Vendicated/Vencord)
   - [Equicord](https://github.com/Equicord/Equicord)
 
 Since this is a **very** unprofessional repository, I don't rebase, do any testing, and just simply push to main. There will be a lot of commit noise.
-
 
 My stuff is only tested on two devices, my Pixel 8 running [GrapheneOS](https://grapheneos.org/), and my iPhone 8+ with [palera1n](https://palera.in/). Issues may happen with other devices, and I won't fix it if it's too annoying.
 
@@ -35,7 +34,7 @@ My stuff is only tested on two devices, my Pixel 8 running [GrapheneOS](https://
 </details>
 
 ### Aliucord
-##### *[Material 3 Gray](https://raw.githubusercontent.com/adevdoingdevthings/discord-mod-things/refs/heads/main/Material%203%20Gray.json) - No Preview*
+##### *[Material 3 Grey](https://github.com/adevdoingdevthings/discord-mod-things/blob/main/Material%203%20Gray.json) - [Theme Link](https://raw.githubusercontent.com/adevdoingdevthings/discord-mod-things/refs/heads/main/Material%203%20Gray.json) - No Preview*
 
 <details>
   <summary>Description</summary>
