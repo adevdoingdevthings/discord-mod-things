@@ -43,7 +43,7 @@ My stuff is only tested on two devices, my Pixel 8 running [GrapheneOS](https://
 
 ### Unbound
 > [!NOTE]
-> Coming [soon™️](http://soon.urbanup.com/10937957)
+> Coming [soon™](http://soon.urbanup.com/10937957)
 
 ## 🔌 Plugins
 ### Revenge (Next)
