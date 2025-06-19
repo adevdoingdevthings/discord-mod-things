@@ -3,10 +3,10 @@ This repository is the home to all of my plugins and themes for these mods:
 - [Revenge](https://github.com/revenge-mod)
   - [BoundTweak](https://github.com/CloudySnowX/BoundTweak)
   - [Kettu](https://github.com/C0C0B01/Kettu)
+- [Lumi](https://github.com/C0C0B01/Lumi)
 - [Aliucord](https://github.com/Aliucord)
 
 Though, in the future I might add stuff for:
-- [Lumi](https://github.com/C0C0B01/Lumi)
 - [Unbound](https://github.com/unbound-app/client)
 - [Vencord](https://github.com/Vendicated/Vencord)
   - [Equicord](https://github.com/Equicord/Equicord)
@@ -22,7 +22,7 @@ My stuff is only tested on two devices, my Pixel 8 running [GrapheneOS](https://
 ##### *[LHM Theme (Again)](https://github.com/adevdoingdevthings/revenge-things/blob/main/LHM.json) - [Theme Link](https://raw.githubusercontent.com/adevdoingdevthings/revenge-things/refs/heads/main/LHM.json) - No Preview*
 <details>
   <summary>Description</summary>
-  <p>A theme with only 4 colours changed. This was meant to become a rewrite of the old LHM theme that broke on TabsV2, along with upstream. Upstream wasn't too different anyways, just slightly less contrast.</p>
+  <p>A theme with only 4 colours changed, only one I could notice in app is when you hover over an element in Android. A preview image would just be unthemed Discord. This was meant to become a rewrite of the old LHM theme that broke on TabsV2, along with upstream. Upstream wasn't too different anyways, just slightly less contrast.</p>
 </details>
 
 ### Aliucord
@@ -30,7 +30,7 @@ My stuff is only tested on two devices, my Pixel 8 running [GrapheneOS](https://
 
 <details>
   <summary>Description</summary>
-  <p>An attempt to get my Material You colours over to Aliucord, colour codes taken from my own OS and YouGray. Pull requests are very welcome here since I barely did any testing.</p>
+  <p>An attempt to get my Material You colours over to Aliucord, colour codes taken from my own OS and YouGray. Pull requests are very welcome here since I barely did any testing. Preview coming sooner or later. Maybe...</p>
 </details>
 
 ### Unbound
