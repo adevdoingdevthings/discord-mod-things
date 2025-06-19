@@ -26,6 +26,8 @@ My stuff is only tested on two devices, my Pixel 8 running [GrapheneOS](https://
 </details>
 
 ### Aliucord
+> [!TIP]
+> Use [HomeIconSwitcher](https://github.com/nyakowint/AliuPlugins/raw/refs/heads/builds/HomeIconSwitcher.zip) and put the url as https://raw.githubusercontent.com/adevdoingdevthings/discord-mod-things/refs/heads/main/Messages.png
 ##### *[Material 3 Grey](https://github.com/adevdoingdevthings/discord-mod-things/blob/main/Material%203%20Gray.json) - [Theme Link](https://raw.githubusercontent.com/adevdoingdevthings/discord-mod-things/refs/heads/main/Material%203%20Gray.json) - No Preview*
 
 <details>
