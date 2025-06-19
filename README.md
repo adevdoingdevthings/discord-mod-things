@@ -16,7 +16,7 @@ Since this is a **very** unprofessional repository, I don't rebase, do any testi
 My stuff is only tested on two devices, my Pixel 8 running [GrapheneOS](https://grapheneos.org/), and my iPhone 8+ with [palera1n](https://palera.in/). Issues may happen with other devices, and I won't fix it if it's too annoying.
 
 ## 🎨 Themes & Fonts
-### Revenge, BoundTweak, Kettu
+### Revenge, BoundTweak, Kettu, Lumi
 > [!WARNING]
 > I stopped working on [LHM Theme](#lhm-theme-again---theme-link---no-preview) as it would have just become [Darkened Amethyst](https://raw.githubusercontent.com/Purple-EyeZ/Darkened-Collection/refs/heads/main/minified_themes/Darkened_Amethyst_min.json) but worse, and I've been using [YouGray](https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/refs/heads/master/Themes/YouGray/YouGray.json) since it matches my Material You colours. I have no reason to work on a theme I won't even use.
 ##### *[LHM Theme (Again)](https://github.com/adevdoingdevthings/revenge-things/blob/main/LHM.json) - [Theme Link](https://raw.githubusercontent.com/adevdoingdevthings/revenge-things/refs/heads/main/LHM.json) - No Preview*
