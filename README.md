@@ -15,7 +15,7 @@ Since this is a **very** unprofessional repository, I don't rebase, do any testi
 
 My stuff is only tested on two devices, my Pixel 8 running [GrapheneOS](https://grapheneos.org/), and my iPhone 8+ with [palera1n](https://palera.in/). Issues may happen with other devices, and I won't fix it if it's too annoying.
 
-## 🎨 Themes & Fonts
+## 🎨 Themes
 ### Revenge, BoundTweak, Kettu, Lumi
 > [!WARNING]
 > I stopped working on [LHM Theme](#lhm-theme-again---theme-link---no-preview) as it would have just become [Darkened Amethyst](https://raw.githubusercontent.com/Purple-EyeZ/Darkened-Collection/refs/heads/main/minified_themes/Darkened_Amethyst_min.json) but worse, and I've been using [YouGray](https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/refs/heads/master/Themes/YouGray/YouGray.json) since it matches my Material You colours. I have no reason to work on a theme I won't even use.
@@ -23,14 +23,6 @@ My stuff is only tested on two devices, my Pixel 8 running [GrapheneOS](https://
 <details>
   <summary>Description</summary>
   <p>A theme with only 4 colours changed. This was meant to become a rewrite of the old LHM theme that broke on TabsV2, along with upstream. Upstream wasn't too different anyways, just slightly less contrast.</p>
-</details>
-
-------
-##### *[Quicksand + Whitney](https://github.com/adevdoingdevthings/revenge-things/blob/main/font.json) - [Font Link](https://raw.githubusercontent.com/adevdoingdevthings/revenge-things/refs/heads/main/font.json) - [Preview](https://github.com/adevdoingdevthings/discord-mod-things/blob/main/README-files/quicksandwhitney.png)*
-
-<details>
-  <summary>Description</summary>
-  <p>A font with Quicksand as the base font, and Whitney as the italics since Quicksand doesn't support italic fonts. I also just like Whitney.</p>
 </details>
 
 ### Aliucord
@@ -44,6 +36,15 @@ My stuff is only tested on two devices, my Pixel 8 running [GrapheneOS](https://
 ### Unbound
 > [!NOTE]
 > Coming [soon™](http://soon.urbanup.com/10937957)
+
+## 🖋️ Fonts
+### Revenge, BoundTweak, Kettu
+##### *[Quicksand + Whitney](https://github.com/adevdoingdevthings/revenge-things/blob/main/font.json) - [Font Link](https://raw.githubusercontent.com/adevdoingdevthings/revenge-things/refs/heads/main/font.json) - [Preview](https://github.com/adevdoingdevthings/discord-mod-things/blob/main/README-files/quicksandwhitney.png)*
+
+<details>
+  <summary>Description</summary>
+  <p>A font with Quicksand as the base font, and Whitney as the italics since Quicksand doesn't support italic fonts. I also just like Whitney.</p>
+</details>
 
 ## 🔌 Plugins
 ### Revenge (Next)
