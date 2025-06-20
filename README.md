@@ -16,7 +16,7 @@ Since this is a **very** unprofessional repository, I don't rebase, do any testi
 My stuff is only tested on two devices, my Pixel 8 running [GrapheneOS](https://grapheneos.org/), and my iPhone 8+ with [palera1n](https://palera.in/). Issues may happen with other devices, and I won't fix it if it's too annoying.
 
 ## 🎨 Themes
-### Revenge, BoundTweak, Kettu, Lumi
+### Revenge, BoundTweak, Kettu
 > [!WARNING]
 > I stopped working on [LHM Theme](#lhm-theme-again---theme-link---no-preview) as it would have just become [Darkened Amethyst](https://raw.githubusercontent.com/Purple-EyeZ/Darkened-Collection/refs/heads/main/minified_themes/Darkened_Amethyst_min.json) but worse, and I've been using [YouGray](https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/refs/heads/master/Themes/YouGray/YouGray.json) since it matches my Material You colours. I have no reason to work on a theme I won't even use.
 ##### *[LHM Theme (Again)](https://github.com/adevdoingdevthings/revenge-things/blob/main/LHM.json) - [Theme Link](https://raw.githubusercontent.com/adevdoingdevthings/revenge-things/refs/heads/main/LHM.json) - No Preview*
@@ -24,6 +24,10 @@ My stuff is only tested on two devices, my Pixel 8 running [GrapheneOS](https://
   <summary>Description</summary>
   <p>A theme with only 4 colours changed, only one I could notice in app is when you hover over an element in Android. A preview image would just be unthemed Discord. This was meant to become a rewrite of the old LHM theme that broke on TabsV2, along with upstream. Upstream wasn't too different anyways, just slightly less contrast.</p>
 </details>
+
+## Lumi
+> [!WARNING]
+> [Lumi](https://github.com/C0C0B01/Lumi) does not support third party themes at the time of writing this, and when I do make a theme for it [soon™](http://soon.urbanup.com/10937957), you'll need to build Lumi from source just to use it until I send the theme to the project owner.
 
 ### Aliucord
 > [!TIP]
