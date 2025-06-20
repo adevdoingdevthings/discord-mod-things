@@ -1,3 +1,4 @@
+#### [Don't know what mod to use?](https://github.com/adevdoingdevthings/discord-mod-things/blob/main/README-files/select.md)
 # 💡 My Discord Things
 This repository is the home to all of my plugins and themes for these mods:
 - [Revenge](https://github.com/revenge-mod)
