@@ -15,7 +15,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/163481464?v=4" width="20px" height="20px" style="border-radius: 5px;" alt="Bunny icon"> [**Bunny**](https://github.com/bunny-mod/Bunny) (iOS, Android)
 *   **Pros:** Continued & modernized Vendetta, a huge amount of code was changed.
-*   **Cons:** Dead, a lot more developers left the community after it died.
+*   **Cons:** Dead, a lot more developers left the community after it died. iOS maintainer snuck unwanted code into BunnyTweak, which caused BoundTweak to fork it and remove it.
 
 <img src="https://avatars.githubusercontent.com/u/133474989?v=4" width="20px" height="20px" style="border-radius: 5px;" alt="Unbound icon"> [**Unbound**](https://github.com/unbound-app/client) (iOS, Stale Android)
 *   **Pros:** Nice code, potential to be something great.
