@@ -1,4 +1,4 @@
-#### [Back to Repo](https://https://github.com/adevdoingdevthings/discord-mod-things/)
+#### [Back to Repo](https://github.com/adevdoingdevthings/discord-mod-things/)
 # ❔ What mod to select?
 
 <img src="https://avatars.githubusercontent.com/u/78881422?v=4" width="20px" height="20px" style="border-radius: 5px;" alt="Aliucord icon"> [**Aliucord**](https://github.com/Aliucord/Aliucord) (Android)
