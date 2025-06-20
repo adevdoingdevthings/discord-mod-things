@@ -6,7 +6,7 @@
 *   **Cons:** Stale community, nothing new being added (only bug fixes).
 
 <img src="https://avatars.githubusercontent.com/u/112445065?v=4" width="20px" height="20px" style="border-radius: 5px;" alt="Vendetta icon"> [**Vendetta**](https://github.com/vendetta-mod/Vendetta)
-*   **Pros:** Got a lot of developers to make plugins & themes (around 40% still work on modern Discord).
+*   **Pros:** Got a lot of developers to make plugins & themes (I'd guess around 40% still work on modern Discord).
 *   **Cons:** Dead, majority of developers left the community and are not updating their things after it died.
 
 <img src="https://avatars.githubusercontent.com/u/101209876?v=4" width="20px" height="20px" style="border-radius: 5px;" alt="Enmity icon"> [**Enmity**](https://github.com/enmity-mod/enmity)
