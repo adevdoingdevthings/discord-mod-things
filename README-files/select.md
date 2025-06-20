@@ -38,7 +38,7 @@
 *   **Cons:** Absolutely horrible development, looks like owner doesn't even know how to use Git too well or is just lazy, like BoundTweak except for Android and the maintainer is an actual developer.
 
 <img src="https://raw.githubusercontent.com/C0C0B01/KettuManager/1220/Images/kettu_logo.png" width="20px" height="20px" style="border-radius: 5px;" alt="Lumi icon"> [**Lumi**](https://github.com/C0C0B01/Lumi)
-*   **Pros:** Stupidly modern (potentially *too* modern?), absolute best support for plugins and themes (since they are first-party), fast. Best possible mod if this is something you want.
+*   **Pros:** Stupidly modern (potentially *too* modern?), absolute best support for plugins and themes (since they are first-party), fast. Powerful plugins. Best possible mod if this is something you want.
 *   **Cons:** Community focused (barely usable for any developers since third-party anything is basically nonexistent), Small amount of plugins and themes with an even smaller community than Revenge Next (doubt much will be supported), not at all what I want out of a Discord mod.
 
 <img src="https://raw.githubusercontent.com/bluemods/Bluecord/refs/heads/master/patch/res/mipmap-xxxhdpi/logo.png" width="20px" height="20px" style="border-radius: 5px;" alt="Bluecord icon"> **~~Bluecord~~ *literal-remote-access-trojan*cord**
