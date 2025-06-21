@@ -1,0 +1,19 @@
+{
+  "name": "ThisWillCrashYourDiscord",
+  "description": "Works again! Suprised you took the effort to read the manifest too.",
+  "authors": [
+    {
+      "name": "AAGaming",
+      "id": "373833473091436546"
+    },
+    {
+      "name": "LandenHM",
+      "id": "963639618765484043"
+    }
+  ],
+  "main": "index.js",
+  "vendetta": {
+    "icon": "ic_warning_24px"
+  },
+  "hash": "01c7e16b437ce7a8d209b9542a3e36a52d8a303afd83ad964e7dffdc74329ef5"
+}
