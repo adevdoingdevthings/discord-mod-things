@@ -20,7 +20,7 @@ My stuff is only tested on two devices, my Pixel 8 running [GrapheneOS](https://
 ### Revenge, BoundTweak, Kettu
 > [!WARNING]
 > I stopped working on [LHM Theme](#lhm-theme-again---theme-link---no-preview) as it would have just become [Darkened Amethyst](https://raw.githubusercontent.com/Purple-EyeZ/Darkened-Collection/refs/heads/main/minified_themes/Darkened_Amethyst_min.json) but worse, and I've been using [YouGray](https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/refs/heads/master/Themes/YouGray/YouGray.json) since it matches my Material You colours. I have no reason to work on a theme I won't even use.
-##### *[LHM Theme (Again)](https://github.com/adevdoingdevthings/discord-mod-things/blob/main/LHM.json) - [Theme Link](https://raw.githubusercontent.com/adevdoingdevthings/discord-mod-things/refs/heads/main/LHM.json) - No Preview*
+##### *[LHM Theme (Again)](https://github.com/adevdoingdevthings/discord-mod-things/blob/main/themes/Revenge/LHM.json) - [Theme Link](https://raw.githubusercontent.com/adevdoingdevthings/discord-mod-things/refs/heads/main/themes/Revenge/LHM.json) - No Preview*
 <details>
   <summary>Description</summary>
   <p>A theme with only 4 colours changed, only one I could notice in app is when you hover over an element in Android. A preview image would just be unthemed Discord. This was meant to become a rewrite of the old LHM theme that broke on TabsV2, along with upstream. Upstream wasn't too different anyways, just slightly less contrast.</p>
@@ -32,8 +32,8 @@ My stuff is only tested on two devices, my Pixel 8 running [GrapheneOS](https://
 
 ### Aliucord
 > [!TIP]
-> Use [HomeIconSwitcher](https://github.com/nyakowint/AliuPlugins/raw/refs/heads/builds/HomeIconSwitcher.zip) and put the url as https://raw.githubusercontent.com/adevdoingdevthings/discord-mod-things/refs/heads/main/Messages.png
-##### *[Material 3 Grey](https://github.com/adevdoingdevthings/discord-mod-things/blob/main/Material%203%20Gray.json) - [Theme Link](https://raw.githubusercontent.com/adevdoingdevthings/discord-mod-things/refs/heads/main/Material%203%20Gray.json) - No Preview*
+> Use [HomeIconSwitcher](https://github.com/nyakowint/AliuPlugins/raw/refs/heads/builds/HomeIconSwitcher.zip) and put the url as https://raw.github.com/adevdoingdevthings/discord-mod-things/main/Messages.png
+##### *[Material 3 Grey](https://github.com/adevdoingdevthings//discord-mod-things/blob/main/themes/Aliucord/Material3Grey.json) - [Theme Link](https://raw.githubusercontent.com/adevdoingdevthings/discord-mod-things/refs/heads/main/themes/Aliucord/Material3Grey.json) - No Preview*
 
 <details>
   <summary>Description</summary>
@@ -46,7 +46,7 @@ My stuff is only tested on two devices, my Pixel 8 running [GrapheneOS](https://
 
 ## 🖋️ Fonts
 ### Revenge, BoundTweak, Kettu
-##### *[Quicksand + Whitney](https://github.com/adevdoingdevthings/discord-mod-things/blob/main/font.json) - [Font Link](https://raw.githubusercontent.com/adevdoingdevthings/discord-mod-things/refs/heads/main/font.json) - [Preview](https://github.com/adevdoingdevthings/discord-mod-things/blob/main/README-files/quicksandwhitney.png)*
+##### *[Quicksand + Whitney](https://github.com/adevdoingdevthings/discord-mod-things/blob/main/fonts/Revenge/QuicksandWhitney.json) - [Font Link](https://raw.githubusercontent.com/adevdoingdevthings/discord-mod-things/refs/heads/main/fonts/Revenge/QuicksandWhitney.json) - [Preview](https://github.com/adevdoingdevthings/discord-mod-things/blob/main/README-files/quicksandwhitney.png)*
 
 <details>
   <summary>Description</summary>
@@ -60,7 +60,7 @@ My stuff is only tested on two devices, my Pixel 8 running [GrapheneOS](https://
 ### Kettu, (Current) Revenge
 > [!NOTE]
 > Waiting to see if [Kettu](https://github.com/C0C0B01/Kettu) will go EOL soon-ish or not before writing too complicated plugins for [Vendetta](https://github.com/vendetta-mod/Vendetta)-based mods. Honestly, I don't have much hope considering [my lazy commits](https://github.com/adevdoingdevthings/discord-mod-things/commits/main/) are named better than [the owner's commits](https://github.com/C0C0B01/Kettu/commits/main/?author=C0C0B01). But, let's just wait and see.
-##### *[ThisWillCrashYourDiscord (fixed)](https://github.com/adevdoingdevthings/discord-mod-things/tree/main/plugins/revenge/ThisWillCrashYourDiscord) - [Plugin Link](https://raw.githubusercontent.com/adevdoingdevthings/discord-mod-things/main/plugins/revenge/ThisWillCrashYourDiscord/) - No Proxy*
+##### *[ThisWillCrashYourDiscord (fixed)](https://github.com/adevdoingdevthings/discord-mod-things/tree/main/plugins/Revenge/ThisWillCrashYourDiscord) - [Plugin Link](https://raw.githubusercontent.com/adevdoingdevthings/discord-mod-things/main/plugins/Revenge/ThisWillCrashYourDiscord/) - No Proxy*
 
 <details>
   <summary>Description</summary>
@@ -77,17 +77,17 @@ My stuff is only tested on two devices, my Pixel 8 running [GrapheneOS](https://
 ## 📃 Credit to the people I ~~borrowed~~ entirely stole from
 ### Everything in the ["old"](https://github.com/adevdoingdevthings/discord-mod-things/tree/main/old) folder other than [my screenshot](https://github.com/adevdoingdevthings/discord-mod-things/blob/main/old/Screenshot_20240302-093609.png)
 * [Night Life](https://github.com/S9Teen/Discord-Theme-Night-Life)
-### [Aliucord Background GIF](https://github.com/adevdoingdevthings/discord-mod-things/blob/main/aliucord_bg.gif)
+### [Aliucord Background GIF](https://github.com/adevdoingdevthings/discord-mod-things/blob/main/themes/Aliucord/aliucord_bg.gif)
 * [You Trippin'](https://raw.githubusercontent.com/rickdtc/Aliurcord-themes/refs/heads/main/Transparent.json)
-### [Quicksand + Whitney](https://github.com/adevdoingdevthings/discord-mod-things/blob/main/font.json) font
+### [Quicksand + Whitney](https://github.com/adevdoingdevthings/discord-mod-things/blob/main/fonts/Revenge/QuicksandWhitney.json) font
 * [Bunny Google Fonts](https://bunny-google-fonts.vercel.app/)
 * [Google Fonts](https://fonts.google.com/specimen/Quicksand)
 * [Whitney Font](https://www.typography.com/fonts/whitney/overview)
-* [Whitney Bunny (now Revenge ig) Font](https://github.com/Rico040/meine-themen/blob/master/old-fonts.json)
-### [Aliucord Home Icon](https://github.com/adevdoingdevthings/discord-mod-things/blob/main/Messages.png)
+* [Whitney Bunny Font](https://github.com/Rico040/meine-themen/blob/master/old-fonts.json)
+### [Aliucord Home Icon](https://github.com/adevdoingdevthings/discord-mod-things/blob/main/themes/Aliucord/Messages.png)
 * [Vendetta Material Icons](https://github.com/Panniku/vd-iconpacks/blob/master/Packs/MaterialDesign3/images/native/main_tabs/Messages.png)
 * [Google Material Icons](https://fonts.google.com/icons)
-### [Material 3 Gray](https://github.com/adevdoingdevthings/discord-mod-things/blob/main/Material%203%20Gray.json)
+### [Material 3 Grey](https://github.com/adevdoingdevthings/discord-mod-things/blob/main/themes/Aliucord/Material3Grey.json)
 * [YouGray](https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/refs/heads/master/Themes/YouGray/YouGray.json)
 ### [ThisWillCrashYourDiscord](https://github.com/adevdoingdevthings/discord-mod-things/tree/main/plugins/revenge/ThisWillCrashYourDiscord) (fixed)
 * The original [ThisWillCrashYourDiscord](https://using-vendata-plugin-discord-crash-issue.pages.dev/)
