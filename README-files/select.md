@@ -7,11 +7,11 @@
 
 <img src="https://avatars.githubusercontent.com/u/112445065?v=4" width="20px" height="20px" style="border-radius: 5px;" alt="Vendetta icon"> [**Vendetta**](https://github.com/vendetta-mod/Vendetta) (iOS, Android)
 *   **Pros:** Got a lot of developers to make plugins & themes (I'd guess around 40% still work on modern Discord).
-*   **Cons:** Dead, majority of developers left the community and are not updating their things after it died.
+*   **Cons:** Dead, majority of developers left the community and are not updating their things after it died. The codebase has also been buggy ever since it first released, which still effects modern clients such as Kettu and Revenge, and why they both are working on a recode.
 
 <img src="https://avatars.githubusercontent.com/u/101209876?v=4" width="20px" height="20px" style="border-radius: 5px;" alt="Enmity icon"> [**Enmity**](https://github.com/enmity-mod/enmity) (iOS)
 *   **Pros:** Has support for Vendetta AND Enmity plugins, uses the same theme system as Vendetta (all themes work on all Vendetta-based loaders).
-*   **Cons:** Dead, nearly every developer left the iOS modding community other than ~6 people after Enmity died.
+*   **Cons:** Dead, nearly every developer left the iOS modding community other than ~6 people after Enmity died. Very slow when using, especially with Vendetta Plugin compatibility.
 
 <img src="https://avatars.githubusercontent.com/u/163481464?v=4" width="20px" height="20px" style="border-radius: 5px;" alt="Bunny icon"> [**Bunny**](https://github.com/bunny-mod/Bunny) (iOS, Android)
 *   **Pros:** Continued & modernized Vendetta, a huge amount of code was changed.
