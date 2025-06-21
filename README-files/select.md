@@ -23,7 +23,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/159218871?v=4" width="20px" height="20px" style="border-radius: 5px;" alt="Revenge icon"> [**Revenge**](https://github.com/revenge-mod/revenge-bundle) (Android, Dead iOS)
 *   **Pros:** Bunny, but it works on modern Discord, has a "clear js bundle" button in developer settings.
-*   **Cons:** Literally leeching off of Bunny (only code differences makes it a whole lot slower and adds 1 button), next version is uncertain if it will survive (very little community and developers are concerning since it will be incompatible with vendetta-based mod plugins), next version isn't independent (relies on Unbound Hermes compiler), code is unnecessarily complicated, Revenge Next is a rewrite of Revenge Rewrite, for some reason.
+*   **Cons:** Will be replaced by Revenge Next, which is incompatible with current plugins. Literally leeching off of Bunny (only code differences makes it a whole lot slower and adds 1 button), next version is uncertain if it will survive (very little community and developers are concerning since it will be incompatible with vendetta-based mod plugins, potentially leading to less adoption), next version isn't independent (relies on Unbound Hermes compiler), code is unnecessarily complicated, Revenge Next is a rewrite of Revenge Rewrite, for some reason.
 
 <img src="https://avatars.githubusercontent.com/u/159218871?v=4" width="20px" height="20px" style="border-radius: 5px;" alt="Revenge icon"> [**Revenge Next**](https://github.com/revenge-mod/revenge-bundle-next) (Android)
 *   **Pros:** Stupidly fast (faster than modern Discord in my testing), powerful plugins.
@@ -34,7 +34,7 @@
 *   **Cons:** Only maintainer isn't a developer (almost no code was changed other than names), doesn't use its own bundle (uses Revenge's), owner doesn't know how to use Git very well or is just being lazy (like me, in this very repo).
 
 <img src="https://raw.githubusercontent.com/C0C0B01/KettuManager/1220/Images/kettu_logo.png" width="20px" height="20px" style="border-radius: 5px;" alt="Kettu icon"> [**Kettu**](https://github.com/C0C0B01/Kettu) (Android)
-*   **Pros:** Being developed much better than Revenge, faster than Revenge, smart with their fork (optimized, less crashes and bugs).
+*   **Pros:** Being developed much better than Revenge, faster than Revenge, smart with their fork (optimized, less crashes and bugs). Will be developed alongside Lumi, meaning you will be able to use your Vendetta plugins until Kettu dies. Unlike how Revenge Next will replace Revenge.
 *   **Cons:** Absolutely horrible development, looks like owner doesn't even know how to use Git too well or is just lazy, like BoundTweak except for Android and the maintainer is an actual developer.
 
 <img src="https://raw.githubusercontent.com/C0C0B01/KettuManager/1220/Images/kettu_logo.png" width="20px" height="20px" style="border-radius: 5px;" alt="Lumi icon"> [**Lumi**](https://github.com/C0C0B01/Lumi) (Android)
