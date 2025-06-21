@@ -82,3 +82,5 @@ My stuff is only tested on two devices, my Pixel 8 running [GrapheneOS](https://
 * [Google Material Icons](https://fonts.google.com/icons)
 ### [Material 3 Gray](https://github.com/adevdoingdevthings/discord-mod-things/blob/main/Material%203%20Gray.json)
 * [YouGray](https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/refs/heads/master/Themes/YouGray/YouGray.json)
+### [ThisWillCrashYourDiscord](https://github.com/adevdoingdevthings/discord-mod-things/tree/main/plugins/revenge/ThisWillCrashYourDiscord) fixed
+* [ThisWillCrashYourDiscord](https://using-vendata-plugin-discord-crash-issue.pages.dev/)
