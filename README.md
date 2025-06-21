@@ -59,7 +59,14 @@ My stuff is only tested on two devices, my Pixel 8 running [GrapheneOS](https://
 > Waiting for [Revenge Next](https://github.com/revenge-mod/revenge-bundle-next) to have a stable release on Android, and either for [BoundTweak](https://github.com/CloudySnowX/BoundTweak) to work well enough with Revenge Next, or drop support for it.
 ### Kettu, (Current) Revenge
 > [!NOTE]
-> Waiting to see if [Kettu](https://github.com/C0C0B01/Kettu) will go EOL soon-ish or not before writing plugins for [Vendetta](https://github.com/vendetta-mod/Vendetta)-based mods. Honestly, I don't have much hope considering [my lazy commits](https://github.com/adevdoingdevthings/discord-mod-things/commits/main/) are named better than [the owner's commits](https://github.com/C0C0B01/Kettu/commits/main/?author=C0C0B01). But, let's just wait and see.
+> Waiting to see if [Kettu](https://github.com/C0C0B01/Kettu) will go EOL soon-ish or not before writing too complicated plugins for [Vendetta](https://github.com/vendetta-mod/Vendetta)-based mods. Honestly, I don't have much hope considering [my lazy commits](https://github.com/adevdoingdevthings/discord-mod-things/commits/main/) are named better than [the owner's commits](https://github.com/C0C0B01/Kettu/commits/main/?author=C0C0B01). But, let's just wait and see.
+##### *[ThisWillCrashYourDiscord (fixed)](https://github.com/adevdoingdevthings/discord-mod-things/tree/main/plugins/revenge/ThisWillCrashYourDiscord) - [Plugin Link](https://raw.githubusercontent.com/adevdoingdevthings/discord-mod-things/main/plugins/revenge/ThisWillCrashYourDiscord/) - No Proxy*
+
+<details>
+  <summary>Description</summary>
+  <p>A fork of the original ThisWillCrashYourDiscord plugin made to fix compatibility with modern Discord versions by using a different crash method.</p>
+</details>
+
 ### Unbound
 > [!IMPORTANT]
 > I will only learn how to write plugins for [Unbound](https://github.com/unbound-app) if [BoundTweak](https://github.com/CloudySnowX/BoundTweak) goes EOL, and there isn't any other iOS alternatives.
@@ -82,5 +89,5 @@ My stuff is only tested on two devices, my Pixel 8 running [GrapheneOS](https://
 * [Google Material Icons](https://fonts.google.com/icons)
 ### [Material 3 Gray](https://github.com/adevdoingdevthings/discord-mod-things/blob/main/Material%203%20Gray.json)
 * [YouGray](https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/refs/heads/master/Themes/YouGray/YouGray.json)
-### [ThisWillCrashYourDiscord](https://github.com/adevdoingdevthings/discord-mod-things/tree/main/plugins/revenge/ThisWillCrashYourDiscord) fixed
-* [ThisWillCrashYourDiscord](https://using-vendata-plugin-discord-crash-issue.pages.dev/)
+### [ThisWillCrashYourDiscord](https://github.com/adevdoingdevthings/discord-mod-things/tree/main/plugins/revenge/ThisWillCrashYourDiscord) (fixed)
+* The original [ThisWillCrashYourDiscord](https://using-vendata-plugin-discord-crash-issue.pages.dev/)
