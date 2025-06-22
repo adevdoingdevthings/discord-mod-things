@@ -67,6 +67,13 @@ My stuff is only tested on two devices, my Pixel 8 running [GrapheneOS](https://
   <p>A fork of the original ThisWillCrashYourDiscord plugin made to fix compatibility with modern Discord versions by using a different crash method.</p>
 </details>
 
+##### *[ErrorResetPlugin](https://github.com/adevdoingdevthings/discord-mod-things/tree/main/plugins/Revenge/ErrorResetPlugin) - [Plugin Link](https://raw.githubusercontent.com/adevdoingdevthings/discord-mod-things/main/plugins/Revenge/ErrorResetPlugin/) - No Proxy*
+
+<details>
+  <summary>Description</summary>
+  <p>This is a plugin that will help with errors. After you see how effective it is, I recommend sharing it to all your friends.</p>
+</details>
+
 ### Unbound
 > [!IMPORTANT]
 > I will only learn how to write plugins for [Unbound](https://github.com/unbound-app) if [BoundTweak](https://github.com/CloudySnowX/BoundTweak) goes EOL, and there isn't any other iOS alternatives.
@@ -91,3 +98,5 @@ My stuff is only tested on two devices, my Pixel 8 running [GrapheneOS](https://
 * [YouGray](https://raw.githubusercontent.com/dora727/doraa-pyoncordstuff/refs/heads/master/Themes/YouGray/YouGray.json)
 ### [ThisWillCrashYourDiscord](https://github.com/adevdoingdevthings/discord-mod-things/tree/main/plugins/revenge/ThisWillCrashYourDiscord) (fixed)
 * The original [ThisWillCrashYourDiscord](https://using-vendata-plugin-discord-crash-issue.pages.dev/)
+### [ErrorResetPlugin](https://github.com/adevdoingdevthings/discord-mod-things/tree/main/plugins/Revenge/ErrorResetPlugin)
+* Inspired heavily by [ThisWillCrashYourDiscord](https://using-vendata-plugin-discord-crash-issue.pages.dev/)
