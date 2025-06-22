@@ -1,0 +1,15 @@
+{
+  "name": "ErrorResetPlugin",
+  "description": "Helps with Discord error messages",
+  "authors": [
+    {
+      "name": "LandenHM",
+      "id": "963639618765484043"
+    }
+  ],
+  "main": "index.js",
+  "vendetta": {
+    "icon": "ic_trash_24px"
+  },
+  "hash": "a80af151e0a1aec11a495f51c38735b2c3110df2f43aa8d5cbfe819016a2af8f"
+}
