@@ -49,14 +49,24 @@
 *   **Cons:** The sole maintainer is not a developer, resulting in minimal code changes beyond renaming or AI. It does not use its own bundle, relying on Revenge's. Git usage by the owner appears lazy, similar to this repo.
 
 <img src="https://raw.githubusercontent.com/C0C0B01/KettuManager/1220/Images/kettu_logo.png" width="20px" height="20px" style="border-radius: 5px;" alt="Kettu icon"> [**Kettu**](https://github.com/C0C0B01/Kettu) (Android)
-*   **Status:** Active Development
-*   **Pros:** Undergoing more structured development than Revenge, offers better performance and fewer crashes/bugs than its predecessors. Will be developed alongside Lumi, ensuring continued Vendetta plugin compatibility.
-*   **Cons:** Development practices appear lazy, similar to BoundTweak, despite the maintainer being an active developer.
+*   **Status:** Stale (Bug fixes and compatibility fixes only)
+*   **Pros:** Undergone more structured development than Revenge, offers better performance and fewer crashes/bugs than its predecessors. Will be developed alongside ra1n, ensuring continued Vendetta plugin compatibility.
+*   **Cons:** Development practices appear lazy, similar to BoundTweak, despite the maintainer being an active developer. No new features will be added.
+
+<img src="https://avatars.githubusercontent.com/u/167419688?v=4" width="20px" height="20px" style="border-radius: 5px;" alt="Wintry icon"> [**Wintry**](https://github.com/amsyarasyiq/wintry) (Android)
+*   **Status:** Stale (Owner only commits when bored)
+*   **Pros:** Offers excellent first-party plugin support, and is highly performant. Considered the best option for users prioritizing the already implemented first-party features and speed.
+*   **Cons:** Rare development since the owner rarely uses Discord now. No third party plugins are avaliable, and themes are in a development branch. May not align with expectations for a traditional Discord mod.
 
 <img src="https://raw.githubusercontent.com/C0C0B01/KettuManager/1220/Images/kettu_logo.png" width="20px" height="20px" style="border-radius: 5px;" alt="Lumi icon"> [**Lumi**](https://github.com/C0C0B01/Lumi) (Android)
-*   **Status:** Active Development
-*   **Pros:** Supports very modern Discord versions, offers excellent first-party plugin and theme support, and is highly performant. Considered the best option for users prioritizing the already implemented first-party features and speed.
-*   **Cons:** Heavily community-focused, making it less suitable for developers due to no third-party plugin or theme support. Has a small ecosystem of plugins and themes, with an even smaller community than Revenge Next, potentially limiting long-term support. May not align with expectations for a traditional Discord mod.
+*   **Status:** Discontinued
+*   **Pros:** Supported modern Discord versions, offered first-party plugin and theme support, and highly performant - fasted client of it's time. It was considered the best option for users prioritizing the already implemented first-party features and speed.
+*   **Cons:** Development has ceased due to disagreements with upstream, replaced by ra1n. Heavily community-focused, making it less suitable for developers due to no third-party plugin or theme support. Has a small ecosystem of plugins and themes, with an even smaller community than Revenge Next, potentially limiting long-term support. May not align with expectations for a traditional Discord mod.
+
+<img src="https://avatars.githubusercontent.com/u/222484597?v=4" width="20px" height="20px" style="border-radius: 5px;" alt="ra1n icon"> [**ra1n**](https://github.com/ra1ncord/ra1n)
+*   **Status:** Unreleased
+*   **Pros:** Uses a Vendetta-based xposed module, so porting to iOS will be easier.
+*   **Cons:** Private development, xposed module is a clone of KettuXposed. Not much is known, or complete. Development could stop due to difficulties at any time.
 
 <img src="https://raw.githubusercontent.com/bluemods/Bluecord/refs/heads/master/patch/res/mipmap-xxxhdpi/logo.png" width="20px" height="20px" style="border-radius: 5px;" alt="Bluecord icon"> **Bluecord (WARNING: Known Security Risks)** (Android)
 *   **Status:** Active (Highly Discouraged)
